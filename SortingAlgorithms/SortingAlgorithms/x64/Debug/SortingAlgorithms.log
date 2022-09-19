@@ -1,0 +1,6 @@
+﻿  SortingAlgorithms.cpp
+  UList.cpp
+C:\Users\Kyle\Desktop\imgui\Test\SortingAlgorithms\SortingAlgorithms\UList.cpp(91,6): warning C4101: 'current': unreferenced local variable
+C:\Users\Kyle\Desktop\imgui\Test\SortingAlgorithms\SortingAlgorithms\UList.cpp(94,6): warning C4101: 'check': unreferenced local variable
+  Generating Code...
+  SortingAlgorithms.vcxproj -> C:\Users\Kyle\Desktop\imgui\Test\SortingAlgorithms\x64\Debug\SortingAlgorithms.exe

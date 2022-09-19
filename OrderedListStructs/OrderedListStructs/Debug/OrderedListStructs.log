@@ -1,0 +1,9 @@
+﻿  List.cpp
+C:\Users\Kyle\Desktop\CV Repos\Algorithms Implementations\OrderedListStructs\OrderedListStructs\List.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  OrderedListStructs.cpp
+C:\Users\Kyle\Desktop\CV Repos\Algorithms Implementations\OrderedListStructs\OrderedListStructs\List.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Kyle\Desktop\CV Repos\Algorithms Implementations\OrderedListStructs\OrderedListStructs\OrderedListStructs.cpp(18,7): warning C4101: 'flush': unreferenced local variable
+  Generating Code...
+C:\Users\Kyle\Desktop\CV Repos\Algorithms Implementations\OrderedListStructs\OrderedListStructs\List.cpp(109): warning C4715: 'List::remove': not all control paths return a value
+C:\Users\Kyle\Desktop\CV Repos\Algorithms Implementations\OrderedListStructs\OrderedListStructs\List.cpp(50): warning C4715: 'List::search': not all control paths return a value
+  OrderedListStructs.vcxproj -> C:\Users\Kyle\Desktop\CV Repos\Algorithms Implementations\OrderedListStructs\Debug\OrderedListStructs.exe

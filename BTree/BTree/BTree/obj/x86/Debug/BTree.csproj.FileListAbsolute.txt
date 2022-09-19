@@ -1,0 +1,18 @@
+\\wgrpw-file01.int.edinburghcollege.ac.uk\wgrhomes5\n-z\nigelkennington\my documents\visual studio 2010\Projects\BTree\BTree\bin\Debug\BTree.exe
+\\wgrpw-file01.int.edinburghcollege.ac.uk\wgrhomes5\n-z\nigelkennington\my documents\visual studio 2010\Projects\BTree\BTree\bin\Debug\BTree.pdb
+\\wgrpw-file01.int.edinburghcollege.ac.uk\wgrhomes5\n-z\nigelkennington\my documents\visual studio 2010\Projects\BTree\BTree\obj\x86\Debug\BTree.exe
+\\wgrpw-file01.int.edinburghcollege.ac.uk\wgrhomes5\n-z\nigelkennington\my documents\visual studio 2010\Projects\BTree\BTree\obj\x86\Debug\BTree.pdb
+C:\Users\Kyle\Downloads\BTree\BTree\BTree\bin\Debug\BTree.exe
+C:\Users\Kyle\Downloads\BTree\BTree\BTree\bin\Debug\BTree.pdb
+C:\Users\Kyle\Downloads\BTree\BTree\BTree\obj\x86\Debug\BTree.csproj.AssemblyReference.cache
+C:\Users\Kyle\Downloads\BTree\BTree\BTree\obj\x86\Debug\BTree.csproj.CoreCompileInputs.cache
+C:\Users\Kyle\Downloads\BTree\BTree\BTree\obj\x86\Debug\BTree.exe
+C:\Users\Kyle\Downloads\BTree\BTree\BTree\obj\x86\Debug\BTree.pdb
+C:\Users\Kyle\Desktop\CV Repos\Algorithms Implementations\BTree\BTree\BTree\bin\Debug\BTree.exe.config
+C:\Users\Kyle\Desktop\CV Repos\Algorithms Implementations\BTree\BTree\BTree\bin\Debug\BTree.exe
+C:\Users\Kyle\Desktop\CV Repos\Algorithms Implementations\BTree\BTree\BTree\bin\Debug\BTree.pdb
+C:\Users\Kyle\Desktop\CV Repos\Algorithms Implementations\BTree\BTree\BTree\obj\x86\Debug\BTree.csproj.AssemblyReference.cache
+C:\Users\Kyle\Desktop\CV Repos\Algorithms Implementations\BTree\BTree\BTree\obj\x86\Debug\BTree.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kyle\Desktop\CV Repos\Algorithms Implementations\BTree\BTree\BTree\obj\x86\Debug\BTree.csproj.CoreCompileInputs.cache
+C:\Users\Kyle\Desktop\CV Repos\Algorithms Implementations\BTree\BTree\BTree\obj\x86\Debug\BTree.exe
+C:\Users\Kyle\Desktop\CV Repos\Algorithms Implementations\BTree\BTree\BTree\obj\x86\Debug\BTree.pdb
