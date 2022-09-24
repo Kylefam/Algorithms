@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<head>
+    <title>Converter</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="conversion-container">
+
+        <div class="autocomplete left">
+            <input id="currencyOne" type="text" placeholder="GBP">
+        </div>
+
+        <img src="arrow.png" alt="arrow point to the right between the two currency options" class="arrow-img">
+
+        <div class="autocomplete right">
+            <input id="currencyTwo" type="text" placeholder="USD">
+        </div>
+
+        <br>
+        <h6> Amount to Convert </h6>
+        <div class="autocomplete">
+            <input id="amountOne" type="number" placeholder="100" value="100" style="width:100px;">
+        </div>
+        <h6> Result </h6>
+        <div class="autocomplete">
+            <input id="amountTwo" type="number" placeholder="0" style="width:100px;" readonly> 
+        </div>
+    </div>
+</body>
+</html>
+<script src="autocomplete.js"></script>
+<script src="conversion.js"></script>
