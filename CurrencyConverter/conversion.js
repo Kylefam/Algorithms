@@ -1,14 +1,14 @@
 function calculate() {
-    currencyOne = document.getElementById('currencyOne').value;
-    currencyTwo = document.getElementById('currencyTwo').value;
-    amountOne = document.getElementById('amountOne');
-    amountTwo = document.getElementById('amountTwo');
+  const currencyOne = document.getElementById('currencyOne').value;
+  const currencyTwo = document.getElementById('currencyTwo').value;
+  const amountOne = document.getElementById('amountOne').value;
+  const amountTwo = document.getElementById('amountTwo');
 
-  fetch(`https://v6.exchangerate-api.com/v6/b71ba5a6f69833fe3ac900ec/latest/${currencyOne}`)
+  fetch(`https://v6.exchangerate-api.com/v6/459eeeed6880b99c09731812/latest/${currencyOne}`)
     .then((res) => res.json())
     .then((data) => {
-      rate = data.conversion_rates[currencyTwo];
-      amountTwo.value = (amountOne.value * rate).toFixed(2);
+      const rate = data.conversion_rates[currencyTwo];
+      amountTwo.value = (amountOne * rate).toFixed(2);
     });
 }
 
